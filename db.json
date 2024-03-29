@@ -1,0 +1,143 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe"
+    },
+    {
+      "id": "22a9",
+      "name": "Eugene Okuneva"
+    },
+    {
+      "id": "c176",
+      "name": "Maggie Hessel"
+    },
+    {
+      "id": "4e72",
+      "name": "Desiree Hudson"
+    },
+    {
+      "id": "2365",
+      "name": "Alice Collier"
+    }
+  ],
+  "albums": [
+    {
+      "id": "13e2",
+      "userId": "22a9",
+      "name": "Modern Cotton Towels"
+    },
+    {
+      "id": "447b",
+      "userId": "c176",
+      "name": "Modern Frozen Chips"
+    },
+    {
+      "id": "be53",
+      "userId": "22a9",
+      "name": "Generic Concrete Shoes"
+    },
+    {
+      "id": "e549",
+      "userId": "c176",
+      "name": "Elegant Granite Hat"
+    },
+    {
+      "id": "af06",
+      "userId": "1",
+      "name": "Refined Rubber Fish"
+    },
+    {
+      "id": "5cf6",
+      "userId": "1",
+      "name": "Modern Frozen Sausages"
+    },
+    {
+      "id": "d604",
+      "userId": "1",
+      "name": "Electronic Bronze Pizza"
+    },
+    {
+      "id": "209b",
+      "userId": "1",
+      "name": "Recycled Wooden Towels"
+    },
+    {
+      "id": "ad1e",
+      "userId": "22a9",
+      "name": "Fantastic Rubber Table"
+    },
+    {
+      "id": "fad7",
+      "userId": "1",
+      "name": "Rustic Fresh Shoes"
+    },
+    {
+      "id": "6308",
+      "userId": "1",
+      "name": "Luxurious Concrete Cheese"
+    },
+    {
+      "id": "acea",
+      "userId": null,
+      "name": "Luxurious Cotton Towels"
+    },
+    {
+      "id": "62c9",
+      "userId": "2365",
+      "name": "Awesome Frozen Sausages"
+    }
+  ],
+  "photos": [
+    {
+      "id": "05de",
+      "albumId": "af06",
+      "url": "https://loremflickr.com/150/150/abstract?lock=30465"
+    },
+    {
+      "id": "73f1",
+      "albumId": "af06",
+      "url": "https://loremflickr.com/150/150/abstract?lock=99840"
+    },
+    {
+      "id": "1c67",
+      "albumId": "af06",
+      "url": "https://loremflickr.com/150/150/abstract?lock=13768"
+    },
+    {
+      "id": "e762",
+      "albumId": "af06",
+      "url": "https://loremflickr.com/150/150/abstract?lock=11081"
+    },
+    {
+      "id": "e292",
+      "albumId": "13e2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=53056"
+    },
+    {
+      "id": "36e0",
+      "albumId": "5cf6",
+      "url": "https://loremflickr.com/150/150/abstract?lock=1184"
+    },
+    {
+      "id": "dcc9",
+      "albumId": "d604",
+      "url": "https://loremflickr.com/150/150/abstract?lock=72166"
+    },
+    {
+      "id": "0829",
+      "albumId": "d604",
+      "url": "https://loremflickr.com/150/150/abstract?lock=95993"
+    },
+    {
+      "id": "d60f",
+      "albumId": "d604",
+      "url": "https://loremflickr.com/150/150/abstract?lock=2919"
+    },
+    {
+      "id": "88ae",
+      "albumId": "62c9",
+      "url": "https://loremflickr.com/150/150/abstract?lock=24031"
+    }
+  ]
+}
